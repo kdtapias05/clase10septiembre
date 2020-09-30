@@ -73,7 +73,7 @@
              if(isset($_POST["botonCalcular"]))
              {
                 
-               $precioProducto1=$_POST["precio1"];
+               $precioProducto1=$_POST["precio1"]; 
                $nombreProducto1=$_POST["producto1"];
 
                $costoEnvio=5000;
